@@ -6,6 +6,3 @@ Upcoming:
 - Final evaluation
 - Updates on hyper-parameter tuning
 - Updates on feature engineering
-
-Notes:
-- There are some preprocessing errors, will be fixed shortly 
