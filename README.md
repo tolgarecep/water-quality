@@ -7,4 +7,4 @@ Upcoming:
 - Updates on feature engineering
 
 Development notes:
-- Reducing 'Solids' and 'Conductivity' features' skewness caused SVM performance to reduce drastically, so it's removed from the feature engineering.
+- Reducing 'Solids' and 'Conductivity' features' skewness caused SVM performance to reduce drastically (random forest performance affected bad too), so it's removed from the feature engineering.
